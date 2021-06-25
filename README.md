@@ -1,6 +1,7 @@
 # letmeask
 
 ![Letmeask logo](/src/assets/images/logo.svg)
+
 **Letmeask is a service built to make possible to you to gather questions from your viewers and enable them to vote on the most relevant questions.**
 
 This project was bootstraped with [`create-react-app`](https://github.com/facebook/create-react-app).
