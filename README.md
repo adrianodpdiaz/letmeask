@@ -8,7 +8,7 @@ This project was bootstraped with [`create-react-app`](https://github.com/facebo
 
 To install the dependencies, you can run this project locally using [`yarn`](https://yarnpkg.com/getting-started/usage), typing in your console:
 
-### `yarn start`
+### `yarn install`
 
 To run the app, use:
 
