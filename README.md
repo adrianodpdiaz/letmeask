@@ -12,6 +12,6 @@ To run the app, use:
 
 #### `yarn start`
 
-You can access this App online at [`letmeask Firebase`](https://letmeask-27491.web.app/).
+You can access this App's online deployed at [`letmeask Firebase`](https://letmeask-27491.web.app/).
 
 Made by [`Adriano Diaz`](https://www.linkedin.com/in/adriano-diaz/) :bird:
